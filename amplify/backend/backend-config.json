@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "draftme0fc26c73": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
